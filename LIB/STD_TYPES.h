@@ -38,7 +38,7 @@ typedef unsigned long long		uint64;         /*       0..18446744073709551615  */
 typedef signed long long		sint64;
 typedef float					float32;
 typedef double					float64;
-#define NULL_PTR				((void*)0)
+#define NULL				((void*)0)
 
 
 #endif /* STD_TYPES_H_ */
